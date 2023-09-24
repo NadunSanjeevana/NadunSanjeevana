@@ -1,11 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Nadun Sanjeevana</h1>
-<h3 align="center">A passionate Computer Science Engineering Undergraduate from Sri Lanka</h3>
-- 📫 How to reach me **nadunsanjeevna2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm Computer Science Engineeringundergraduate of University of Moratuwa, Sri Lanka<br>I' m interesting Coding, Problem Solving
 
 
 ## 🌐 Socials:
