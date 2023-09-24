@@ -2,6 +2,7 @@
 <h3 align="center">"Passionately coding my way through the digital landscape, one line at a time. 🚀🌍 #FullStackDeveloper 🖥️🌟 Sri Lanka 🏝️"</h3>
 
 
+
 - 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
 
 - 🌱 I'm currently learning testing 🧪
