@@ -4,7 +4,8 @@ I'm Computer Science Engineeringundergraduate of University of Moratuwa, Sri Lan
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadun-sanjeevana) 
-[![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=medium&logoColor=white)](https://medium.com/@@nadunsanjeevana2001)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@nadunsanjeevana2001)
+
 
 
 # 💻 Tech Stack:
