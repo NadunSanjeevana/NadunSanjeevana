@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
 
-- 🌱 I’m currently learning *Flask *
+- 🌱 I'm currently learning testing 🧪
 
 - 📫 How to reach me *nadunsanjeevana2001@gmail.com*
 
