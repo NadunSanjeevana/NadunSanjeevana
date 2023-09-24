@@ -1,5 +1,13 @@
-# 💫 About Me:
-I'm Computer Science Engineeringundergraduate of University of Moratuwa, Sri Lanka<br>I' m interesting Coding, Problem Solving
+<h1 align="center">Hi 👋, I'm Nadun Sanjeevana</h1>
+<h3 align="center">"Passionately coding my way through the digital landscape, one line at a time. 🚀🌍 #FullStackDeveloper 🖥️🌟 Sri Lanka 🏝️"</h3>
+
+
+- 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
+
+- 🌱 I’m currently learning *Flask *
+
+- 📫 How to reach me *nadunsanjeevana2001@gmail.com*
+
 
 
 ## 🌐 Socials:
