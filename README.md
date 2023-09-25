@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadun Sanjeevana</h1>
 <h3 align="center">"Passionately coding my way through the digital landscape, one line at a time. 🚀🌍 #FullStackDeveloper 🖥️🌟 Sri Lanka 🏝️"</h3>
 
+[![](https://visitcount.itsvg.in/api?id=nadun&label=ProfileViews&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
 
@@ -13,6 +14,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadun-sanjeevana) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@nadunsanjeevana2001)
+
+
+
 
 
 
@@ -31,4 +35,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NadunSanjeevana&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NadunSanjeevana&icon=0&color=0)](https://visitcount.itsvg.in)
+
