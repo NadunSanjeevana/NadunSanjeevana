@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nadun Sanjeevana</h1>
-<h3 align="center">"Passionately coding my way through the digital landscape, one line at a time. 🚀🌍 #FullStackDeveloper 🖥️🌟 Sri Lanka 🏝️"</h3>
+<h3 align="center">"Software Engineer, Passionately coding my way through the digital landscape, one line at a time. 🚀🌍 #FullStackDeveloper 🖥️🌟 Sri Lanka 🏝️"</h3>
 
 [![](https://visitcount.itsvg.in/api?id=nadun&label=ProfileViews&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
+- 🔭 I’m currently working on Computer Vision.
 
-- 🌱 I'm currently learning testing 🧪
+- 🌱 I'm currently learning Vision Transformers 🖼️
 
 - 📫 How to reach me *nadunsanjeevana2001@gmail.com*
 
