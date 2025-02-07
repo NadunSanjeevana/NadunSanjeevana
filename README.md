@@ -9,7 +9,7 @@ I'm a passionate software engineer from Sri Lanka, transforming ideas into innov
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,django,tensorflow,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,cpp,go,typescript,html,css,react,nodejs,nestjs,django,dotnet,tensorflow,graphql,postgres,mongodb,aws,gcp,linux,docker,kubernetes,rabbitmq,redis,figma" />
 </p>
 
 ## 🔥 GitHub Streak & Stats
