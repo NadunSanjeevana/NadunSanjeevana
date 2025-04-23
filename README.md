@@ -103,22 +103,11 @@ const nadun = {
 
 <br>
 
-## 🎮 Let's Play A Game!
-
 <div align="center">
   <h3>🐍 Snake Game: Watch the snake eat my contribution!</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   
   <br>
-  <h3>🎯 Click the target to score!</h3>
-  
-  ```
-  Click the link below to play:
-  ```
-  
-  [![Play Target Game](https://img.shields.io/badge/Play%20Target%20Game-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadunSanjeevana)
-  
-  <sub>(Opens a GitHub game repo)</sub>
 </div>
 
 <br>
